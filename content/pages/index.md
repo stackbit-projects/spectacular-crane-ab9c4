@@ -57,7 +57,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: FeaturedPostsSection
-    variant: variant-a
+    variant: variant-b
     colors: colors-a
     title: Recent work
     posts:
